@@ -17,7 +17,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [github.com/banece/four-card-feature-section](https://github.com/banece/four-card-feature-section)
 - Live Site URL: []()
 
 ## My process
@@ -27,18 +27,21 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
+- Mobile first
 
 ### What I learned
 
-
+Some more of grid and flex. How to make a "fake" border to span the whole element.
 
 ### Continued development
 
-
+Continue on improving my grid and flex layouts.
 
 ### Useful resources
 
-- [MDN Web Docs by Mozzila](https://developer.mozilla.org/en-US/) 
+- [MDN Web Docs by Mozzila](https://developer.mozilla.org/en-US/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 ## Author
 
